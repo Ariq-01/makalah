@@ -1,7 +1,4 @@
-buah = ["mangga", "pisang", "semangka", "jeruk", "anggur"]
-
-print(" dibalik:", buah)
-
+buah = ["pisang", "coklat", "durian", "pisang"]
 buah.reverse()
-
-print(" dibalik:", buah)
+print(buah)
+print(buah.index("pisang"))

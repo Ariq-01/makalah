@@ -1,6 +1,7 @@
-nilai = [10, 20, 30, 40, 50, 100, 200, 300, 400, 500]
+grade = [272, 2, 32, 32, 32, 3]
 
-# print(nilai)
-total = sum(nilai)
-mean = total/len(nilai)
-print("rata-rata:", mean)
+total = sum(grade)
+mean = total / len(grade)
+print('total menan is ', mean)
+print('done')
+

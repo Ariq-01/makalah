@@ -1,7 +1,3 @@
-angka = [5, 2, 8, 787, 87,  1, 9]
-
-#print("Angka sebelum diurutkan:", angka)
-
+angka = [232, 2323, 23, 23, 5345, 67]
 angka.sort()
-
-print("diurutkan:", angka)
+print(angka)

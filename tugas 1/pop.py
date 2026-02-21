@@ -1,6 +1,3 @@
-# tertentu (derauit terakпіг).
-buah = ["apel", "pisang", "jeruk"]
-buah.pop()
+buah = ["test", "albert", "test", "test32", "test22343"]
+buah.pop(-1)
 print(buah)
-Output:
-['apel', 'pisang']

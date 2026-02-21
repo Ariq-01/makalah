@@ -1,3 +1,4 @@
-angka = [1,2,34,5,64]
-print(angka.index(5))
+angka = [212, 12, 1, 21, 2, 12]
+print(angka.index(1))
 
+print(angka)

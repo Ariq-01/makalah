@@ -1,4 +1,4 @@
-buah = ["psiang", "coklat", "durian"]
-buah_jenis = ["jeruk", "mangga"]
-buah.extend(buah_jenis)
+buah = ["pisang", "banan", "langsat", "cenkeh"]
+buah_add = ["bananana yellow "]
+buah.extend(buah_add)
 print(buah)

@@ -7,3 +7,6 @@ https://appwrite.io/cloud-ga
 
 https://www.librechat.ai/
 	ia chat 
+
+### tools
+https://agent.minimax.io
